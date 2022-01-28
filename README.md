@@ -1,5 +1,5 @@
 # KNN-donors-choose
-Analysis of DonorsChoose.org dataset using KNN
+Classification of DonorsChoose.org dataset using KNN
 
 
 Download the train_data.csv and resources.csv files from here:
